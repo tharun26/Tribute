@@ -1,0 +1,26 @@
+.header
+{
+  font-family: "Lobster Two";
+}
+.content
+{
+  font-family:Alegreya;
+  font-size:1.5em;
+}
+#profile_div
+{
+    margin-left: 10px;
+}
+#profile
+{
+  width:200px;
+  height:200px;
+
+}
+.static-button
+{
+position: absolute;
+right:    0;
+bottom:   0;
+
+}
